@@ -29,6 +29,7 @@ export default function FirstSection() {
           src={backgroundImage}
    placeholder="blur"
   quality={45}
+   sizes="(max-width: 768px) 100vw, 412px"
           fill
           alt="zdjęcie tabletu na środku"
           className="object-cover"
