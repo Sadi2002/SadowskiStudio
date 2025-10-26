@@ -27,7 +27,7 @@ export default function FirstSection() {
       <div className="h-[380px] relative w-full -z-1">
         <Image
           src={backgroundImage}
-  quality={75}
+  quality={50}
           fill
           alt="zdjęcie tabletu na środku"
           className="object-cover"
