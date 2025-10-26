@@ -25,7 +25,7 @@ export default function FirstSection() {
         </div>
       </div>
       <div className="h-[380px] relative w-full -z-1">
-        <Image
+        <Image priority
           src={backgroundImage}
   quality={50}
           fill
