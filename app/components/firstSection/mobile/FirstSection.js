@@ -28,7 +28,7 @@ export default function FirstSection() {
         <Image priority
           src={backgroundImage}
    placeholder="blur"
-  quality={35}
+  quality={75}
    sizes="100vw"
           fill
           alt="zdjęcie tabletu na środku"
