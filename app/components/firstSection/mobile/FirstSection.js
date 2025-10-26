@@ -6,7 +6,7 @@ export default function FirstSection() {
     <section className="pt-[76px]">
       <div className="mx-[12px] pb-[30px]">
         <h1 className="text-[40px] text-[rgb(51,51,53)] font-light tracking-[-1px] leading-[43px]">
-          Strony 3D z efektem WOW
+          Strony 3D z<br />efektem WOW
         </h1>
       </div>
       <div className="mx-[12px] flex flex-col gap-[40px] pb-[30px]">
