@@ -24,12 +24,12 @@ export default function FirstSection() {
           <p className="text-[12px] font-light">Zobacz więcej</p>
         </div>
       </div>
-      <div className="h-[380px] relative w-full -z-1">
+      <div className="h-[380px] relative w-full inset-0 -z-10">
         <Image priority
           src={backgroundImage}
    placeholder="blur"
-  quality={45}
-   sizes="(max-width: 768px) 100vw, 412px"
+  quality={35}
+   sizes="100vw"
           fill
           alt="zdjęcie tabletu na środku"
           className="object-cover"
